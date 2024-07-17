@@ -60,6 +60,23 @@ a {
 }
 /*Navbar End */
 
+/*Footer Start */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  border-top: 1px solid var(--textSoft);
+  font-size: 14px;
+}
+
+.social {
+  display: flex;
+  gap: 10px;
+}
+
+/*Footer End */
+
 @media (max-width: 1536px) {
   .container {
     max-width: 1366px;
