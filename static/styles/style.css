@@ -31,6 +31,35 @@ a {
   justify-content: space-between;
 }
 
+/*Navbar Start */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.searchButton {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: var(--bgSoft);
+  color: var(--textSoft);
+  padding: 5px;
+  border-radius: 10px;
+}
+/*Navbar End */
+
 @media (max-width: 1536px) {
   .container {
     max-width: 1366px;
@@ -51,12 +80,15 @@ a {
   .container {
     max-width: 768px;
     padding-left: 10px;
-    padding-right: 10px; 
+    padding-right: 10px;
   }
 }
 @media (max-width: 768px) {
   .container {
     max-width: 640px;
+  }
+  .links {
+    font-size: 14px;
   }
 }
 
