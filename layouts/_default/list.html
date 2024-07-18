@@ -13,19 +13,16 @@
       <p class="listItemDesc">{{.Params.description}}</p>
       <div class="listItemDetail">
         <img src="{{.Params.avatar}}" loading="lazy" alt="" />
-        <span></span>
+        <span>{{range (.GetTerms "authors")}}
+           <a href="{{.Permalink}}">{{.Name}}</a>
+          {{end}}</span>
         <time>{{dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
-	  <div class="listItemCategories">
-		{{ range (.GetTerm "categories") }}
-
-		<a href={{.Permalink}} class="listItemCategory">{{.Name}}</a>
-		<a href="/" class="listItemCategory">Code</a>
-		<a href="/" class="listItemCategory">Code</a>
-		<a href="/" class="listItemCategory">Code</a>
-		<a href="/" class="listItemCategory">Code</a>
-		<a href="/" class="listItemCategory">Code</a>
-	  </div>
+      <div class="listItemCategories">
+        {{ range (.GetTerms "categories") }}
+        <a href="{{ .Permalink }}" class="listItemCategory">{{ .Name }}</a>
+        {{ end }}
+      </div>
     </div>
   </div>
   {{end}}
