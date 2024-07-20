@@ -2,40 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/authors/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/authors/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/authors/bipin/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/authors/bipin/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/categories/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/code/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/categories/code/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/general/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/categories/general/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-fifth-blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/my-fifth-blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-first-blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/my-first-blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-third-blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/my-fourth-blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-fourth-blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/my-second-blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/my-second-blog/</loc>
-    <lastmod>2024-07-17T01:39:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-sixth-blog/</loc>
+    <loc>https://bipin-kalakheti.github.io/blog/my-sixth-blog/</loc>
     <lastmod>2024-07-17T01:39:21+00:00</lastmod>
   </url>
 </urlset>
