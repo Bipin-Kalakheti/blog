@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bipin on My New Hugo Site</title>
+    <link>https://bipin-kalakheti.github.io/blog/authors/bipin/</link>
+    <description>Recent content in Bipin on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2024 01:39:21 +0000</lastBuildDate><atom:link href="https://bipin-kalakheti.github.io/blog/authors/bipin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My fifth Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-fifth-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-fifth-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-first-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-first-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-third-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-third-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+    <item>
+      <title>My fourth Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-fourth-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-fourth-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+    <item>
+      <title>My second Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-second-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-second-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+    <item>
+      <title>My sixth Blog</title>
+      <link>https://bipin-kalakheti.github.io/blog/my-sixth-blog/</link>
+      <pubDate>Wed, 17 Jul 2024 01:39:21 +0000</pubDate>
+      
+      <guid>https://bipin-kalakheti.github.io/blog/my-sixth-blog/</guid>
+      <description>Test Content</description>
+    </item>
+    
+  </channel>
+</rss>
