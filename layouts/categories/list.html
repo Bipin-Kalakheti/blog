@@ -15,7 +15,12 @@ $.Site.Taxonomies.categories.ByCount}}
       <h1 class="listItemTitle"><a href="{{.Permalink}}">{{.Title}}</a></h1>
       <p class="listItemDesc">{{.Params.description}}</p>
       <div class="listItemDetail">
-        <img src="{{.Params.avatar}}" loading="lazy" alt="" />
+        <img
+          src="{{.Params.avatar}}"
+          loading="lazy"
+          alt=""
+          class="listItemAvatar"
+        />
         <span
           >{{range (.GetTerms "authors")}}
           <a href="{{.Permalink}}">{{.Name}}</a>
